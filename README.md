@@ -18,6 +18,10 @@ Proposed method was rigorously tested on two renowned face datasets:
 - **ORL Dataset:** Achieved an accuracy rate of 95.63%.
 - **YALE Dataset:** Recorded an accuracy rate of 93.33%.
 
+<p float="left">
+  <img src="ExperimentalResults/gen_data_fit.png" width="300" />
+</p>
+
 These results underscore the effectiveness of our proposed combination, particularly in handling diverse facial expressions and challenging conditions.
 
 ## Conclusion
