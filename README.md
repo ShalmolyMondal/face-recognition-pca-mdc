@@ -1,16 +1,11 @@
 # Face Recognition Using PCA and Minimum Distance Classification
 
-## Abstract
-Face recognition technology encounters significant challenges due to variations in facial expressions, poses, and illumination conditions, which are easily discernible by humans but difficult for machines. This paper introduces a robust combination of feature extraction technique and classifier, aiming to achieve high accuracy in face recognition across multiple standard databases. Utilizing principle component analysis (PCA) for feature extraction and minimum distance classification for classification, this approach is tested on the ORL and YALE datasets. It demonstrates impressive accuracy rates of 95.63% and 93.33%, respectively, despite variations in facial expressions, poses, and illumination.
-
-## Keywords
-Eigenface, Face datasets, Minimum distance classifier, Face recognition, Principle component analysis
-
-## Introduction
-Face is a paramount characteristic for identifying individuals, yet its varying expressions present a significant hurdle for machine recognition. The intricacies of facial recognition encompass both feature extraction and classification, where the optimal combination is crucial for maximum accuracy. 
+## Overview
+A face recognition system leveraging Principle Component Analysis (PCA) and Minimum Distance Classification (MDC) to achieve high accuracy across diverse datasets, considering variations in expressions, poses, and lighting conditions It demonstrates impressive accuracy rates of 95.63% and 93.33%, respectively, despite variations in facial expressions, poses, and illumination.
 
 ## Methodology
-This study focuses on a unique combination of principle component analysis (PCA) for extracting facial features, subsequently classified using a minimum distance classification system. This methodology is crafted to handle the complexities introduced by varied facial expressions, poses, and lighting conditions efficiently.
+Utilized principle component analysis (PCA) for feature extraction and minimum distance classification for classification, this approach is tested on the ORL and YALE datasets. 
+
 
 ### Feature Extraction
 - **PCA (Principle Component Analysis):** Utilized for the robust extraction of facial features, serving as the foundational step of the recognition process.
@@ -19,7 +14,7 @@ This study focuses on a unique combination of principle component analysis (PCA)
 - **Minimum Distance Classification:** These extracted features are classified, focusing on achieving high accuracy with minimal computational complexity.
 
 ## Results
-Our proposed method was rigorously tested on two renowned face datasets:
+Proposed method was rigorously tested on two renowned face datasets:
 - **ORL Dataset:** Achieved an accuracy rate of 95.63%.
 - **YALE Dataset:** Recorded an accuracy rate of 93.33%.
 
