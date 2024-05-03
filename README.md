@@ -19,7 +19,7 @@ Proposed method was rigorously tested on two renowned face datasets:
 - **YALE Dataset:** Recorded an accuracy rate of 93.33%.
 
 <p float="left">
-  <img src="ExperimentalResults/gen_data_fit.png" width="300" />
+  <img src="Results.png" width="300" />
 </p>
 
 These results underscore the effectiveness of our proposed combination, particularly in handling diverse facial expressions and challenging conditions.
